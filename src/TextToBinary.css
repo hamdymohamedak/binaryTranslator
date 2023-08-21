@@ -1,0 +1,25 @@
+.TOBinaryParnet {
+  min-height: 100vh;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.dev/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1014%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cpath d='M1364.054%2c517.888C1402.764%2c518.415%2c1448.158%2c517.551%2c1466.869%2c483.659C1485.278%2c450.313%2c1459.477%2c413.183%2c1439.895%2c380.512C1421.138%2c349.219%2c1400.442%2c314.765%2c1364.054%2c312.126C1323.982%2c309.22%2c1286.603%2c333.191%2c1266.419%2c367.93C1246.138%2c402.835%2c1243.951%2c447.094%2c1265.977%2c480.924C1286.408%2c512.305%2c1326.611%2c517.378%2c1364.054%2c517.888' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M1131.716%2c410.038C1163.356%2c409.996%2c1194.434%2c398.425%2c1211.627%2c371.864C1230.403%2c342.857%2c1236.683%2c305.017%2c1218.855%2c275.418C1201.46%2c246.537%2c1165.429%2c238.851%2c1131.716%2c239.192C1098.742%2c239.526%2c1064.632%2c248.927%2c1047.581%2c277.152C1030.031%2c306.203%2c1033.282%2c343.399%2c1051.438%2c372.076C1068.409%2c398.881%2c1099.99%2c410.08%2c1131.716%2c410.038' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M319.177%2c110.402C340.526%2c109.614%2c360.27%2c99.221%2c371.155%2c80.838C382.254%2c62.093%2c382.736%2c39.256%2c372.771%2c19.885C361.833%2c-1.38%2c343.09%2c-20.23%2c319.177%2c-20.211C295.288%2c-20.192%2c277.433%2c-0.856%2c265.731%2c19.971C254.319%2c40.282%2c248.248%2c64.879%2c260.101%2c84.935C271.795%2c104.722%2c296.209%2c111.25%2c319.177%2c110.402' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M205.429%2c679.021C254.227%2c678.642%2c306.647%2c669.843%2c332.252%2c628.301C358.859%2c585.134%2c351.133%2c529.463%2c324.029%2c486.606C298.747%2c446.63%2c252.717%2c426.681%2c205.429%2c427.765C160.103%2c428.804%2c120.414%2c453.705%2c95.886%2c491.835C68.825%2c533.903%2c49.884%2c587.126%2c75.148%2c630.297C100.247%2c673.187%2c155.736%2c679.407%2c205.429%2c679.021' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1332.6009087942425 187.2282036590717L1283.2756581428416 58.7315325738262 1154.778987057596 108.05678322522718 1204.104237708997 236.5534543104727z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M929.4307785656796 188.00619279939175L800.5583565675067 169.8943550416497 782.4465188097646 298.7667770398226 911.3189408079376 316.87861479756464z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float2'%3e%3c/path%3e%3cpath d='M1270.6274921249815 645.2952627018187L1283.2772853062238 500.70746502110364 1138.6894876255087 488.05767183986126 1126.0396944442664 632.6454695205763z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float1'%3e%3c/path%3e%3cpath d='M799.0553752659337 76.40013882093302L874.4717315059279 201.91403314479282 999.9856258297878 126.49767690479858 924.5692695897935 0.9837825809387652z' fill='rgba(28%2c 83%2c 142%2c 0.4)' class='triangle-float3'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1014'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3cstyle%3e %40keyframes float1 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-10px%2c 0)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float1 %7b animation: float1 5s infinite%3b %7d %40keyframes float2 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(-5px%2c -5px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float2 %7b animation: float2 4s infinite%3b %7d %40keyframes float3 %7b 0%25%7btransform: translate(0%2c 0)%7d 50%25%7btransform: translate(0%2c -10px)%7d 100%25%7btransform: translate(0%2c 0)%7d %7d .triangle-float3 %7b animation: float3 6s infinite%3b %7d %3c/style%3e%3c/defs%3e%3c/svg%3e");
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.ToBtn {
+  height: 4rem;
+  width: 16rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  border-radius: 10px;
+  border: none;
+  background: rgb(36, 36, 160);
+  color: white;
+}
+.ToBtn:hover {
+  box-shadow: 1px 1px 31px 2px rgb(36, 36, 160);
+}
