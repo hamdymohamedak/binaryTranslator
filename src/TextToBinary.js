@@ -31,7 +31,7 @@ function TextToBinary() {
         Convert
       </button>
       <div>
-        <p>Binary OutPut : </p>
+        <p style={{ color: "white" }}>Binary OutPut : </p>
         <p style={{ color: "white" }}>{binaryOutput}</p>
       </div>
     </div>
