@@ -38,7 +38,7 @@ function BinaryToTextConverter() {
       </button>
       <div>
         <p style={{ color: "white" }}>English Text : </p>
-        <p className="outPut">{englishOutput}</p>
+        <p style={{color:"white"}} className="outPut">{englishOutput}</p>
       </div>
     </div>
   );
